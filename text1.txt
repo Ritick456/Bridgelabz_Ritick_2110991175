@@ -1,5 +1,2 @@
-<<<<<<< HEAD
+
 Hi Main
-=======
-Hi Feature
->>>>>>> feature4
