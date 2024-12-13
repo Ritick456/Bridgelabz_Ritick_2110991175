@@ -24,3 +24,8 @@ Topics Covered on 12-12-2024
 3) Learn about data types and variables
 4) Practice some basic patterns in C++
 
+Topics Covered on 13-12-2024
+1)Learn About Control Statements 
+2)Learn About Functions in C++
+3) explore call by value and call By reference
+4) Understand the Differences Between Call by Value and Call by Reference
