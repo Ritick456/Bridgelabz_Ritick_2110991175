@@ -40,5 +40,10 @@ Topics Covered on 17-12-2024
 2) Learn about signed and unsigned operators.
 3) Solve basic problems on pointers.
 
+Topics Covered on 18-12-2024
+1) Learn about random functions in C++ like rand() and srand().
+2) Also understand why we use time with srand().
+3) Learn basic concepts about strings.
+
 
 
