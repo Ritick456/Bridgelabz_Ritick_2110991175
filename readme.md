@@ -45,5 +45,11 @@ Topics Covered on 18-12-2024
 2) Also understand why we use time with srand().
 3) Learn basic concepts about strings.
 
+Topics Covered on 20-12-2024
+1) Code a menu-driven calculator using switch case in C++.
+2) Code an ATM withdrawal system.
 
+Topics Covered on 23-12-2024
+1) Learn about exception handling in C++.
+2) Solve some assignment problems.
 
